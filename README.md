@@ -9,8 +9,8 @@ This program is designed to find a fake gold bar among a set of identical gold b
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gold-bar-finding.git
-   cd gold-bar-finding
+   git clone https://github.com/smylaram/fetch_coding_exercise.git
+   cd fetch_coding_exercise
 
 1. **Install dependencies:**
 
